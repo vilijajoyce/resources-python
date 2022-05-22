@@ -1,3 +1,16 @@
-# Python for Healthcare
+# Python-Healthcare Tutorial
 ## Data Analytics
-- [NumPy arrays]()
+- :black_square_button:[NumPy arrays](https://jakevdp.github.io/PythonDataScienceHandbook/02.00-introduction-to-numpy.html)
+- :black_square_button:[Pandas DataFrames](https://jakevdp.github.io/PythonDataScienceHandbook/03.00-introduction-to-pandas.html)
+- :black_square_button:[Importing data from CSV files]()
+- :black_square_button:[Basic data manipulation]()
+  - :black_square_button:[Sorting](https://jakevdp.github.io/PythonDataScienceHandbook/02.08-sorting.html)
+  - :black_square_button:[Merging](https://jakevdp.github.io/PythonDataScienceHandbook/03.07-merge-and-join.html)
+  - :black_square_button:[Grouping](https://jakevdp.github.io/PythonDataScienceHandbook/03.08-aggregation-and-grouping.html)
+- :black_square_button:[Visualizing data]()
+  - :black_square_button:[MatPlotLib]()
+- :black_square_button:[Statistical functions]()
+  - :black_square_button:[Regression analysis]()
+  - :black_square_button:[T-test, P-test, R2 values, etc.]()
+- :black_square_button:[Case studies]()
+  - :black_square_button:[Data analysis of a clinical trial dataset]()
