@@ -2,7 +2,7 @@
 ## Data Analytics
 - :black_square_button:[NumPy arrays](https://jakevdp.github.io/PythonDataScienceHandbook/02.00-introduction-to-numpy.html)
 - :black_square_button:[Pandas DataFrames](https://jakevdp.github.io/PythonDataScienceHandbook/03.00-introduction-to-pandas.html)
-- :black_square_button:[Importing data from CSV files]()
+- :black_square_button:[Importing data from CSV files](https://cims.nyu.edu/~brenden/courses/labincp/chapters/05/00-data.html#reading-data-e-g-csvs-into-python-using-pandas)
 - :black_square_button:Basic data manipulation
   - :black_square_button:[Sorting](https://jakevdp.github.io/PythonDataScienceHandbook/02.08-sorting.html)
   - :black_square_button:[Merging](https://jakevdp.github.io/PythonDataScienceHandbook/03.07-merge-and-join.html)
