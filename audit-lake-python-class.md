@@ -7,5 +7,7 @@
   - https://github.com/vilijajoyce/python-resources/blob/main/python_lake_006_format_structure_data.ipynb 
 - [x] [7. Visualizing Data](https://cims.nyu.edu/~brenden/courses/labincp/chapters/06/00-plots.html)
   - https://github.com/vilijajoyce/python-resources/blob/main/python_lake_007_visual_data.ipynb
-- [ ] [8. Describing Data](https://cims.nyu.edu/~brenden/courses/labincp/chapters/07/00-describingdata.html)
+- [x] [8. Describing Data](https://cims.nyu.edu/~brenden/courses/labincp/chapters/07/00-describingdata.html)
   - https://github.com/vilijajoyce/python-resources/blob/main/python_lake_008_describe_data.ipynb
+- [ ] [9.Samples, Populations, and Sampling](https://cims.nyu.edu/~brenden/courses/labincp/chapters/08/01-sampling.html)
+  - https://github.com/vilijajoyce/python-resources/blob/main/python_lake_009_sampling.ipynb
