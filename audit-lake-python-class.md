@@ -1,4 +1,4 @@
-# Audit Brenden Lake's/Todd Gureckis' Fall 2021 Lab in Cognition and Perception
+# Brenden Lake's/Todd Gureckis' Fall 2021 Lab in Cognition and Perception (currently auditing)
 - [x] [3. Introduction to Jupyter](https://cims.nyu.edu/~brenden/courses/labincp/chapters/02/00-jupyter.html)
   - https://github.com/vilijajoyce/python-resources/blob/main/python_lake_003_intro_jupyter.ipynb  
 - [x] [4. Intro to Python](https://cims.nyu.edu/~brenden/courses/labincp/chapters/03/00-python.html) 
