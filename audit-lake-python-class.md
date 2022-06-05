@@ -5,5 +5,7 @@
   - https://github.com/vilijajoyce/python-resources/blob/main/python_lake_004_intro_python.ipynb  
 - [x] [6. Format and Structure of Digital Data](https://cims.nyu.edu/~brenden/courses/labincp/chapters/05/00-data.html)
   - https://github.com/vilijajoyce/python-resources/blob/main/python_lake_006_format_structure_data.ipynb 
-- [ ] [7. Visualizing Data](https://cims.nyu.edu/~brenden/courses/labincp/chapters/06/00-plots.html)
+- [x] [7. Visualizing Data](https://cims.nyu.edu/~brenden/courses/labincp/chapters/06/00-plots.html)
   - https://github.com/vilijajoyce/python-resources/blob/main/python_lake_007_visual_data.ipynb
+- [ ] [8. Describing Data](https://cims.nyu.edu/~brenden/courses/labincp/chapters/07/00-describingdata.html)
+  - https://github.com/vilijajoyce/python-resources/blob/main/python_lake_008_describe_data.ipynb
