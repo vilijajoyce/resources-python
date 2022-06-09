@@ -11,5 +11,7 @@
   - https://github.com/vilijajoyce/python-resources/blob/main/python_lake_008_describe_data.ipynb
 - [x] [9. Samples, Populations, and Sampling](https://cims.nyu.edu/~brenden/courses/labincp/chapters/08/01-sampling.html)
   - https://github.com/vilijajoyce/python-resources/blob/main/python_lake_009_sampling.ipynb
-- [ ] [10. Hypothesis Testing](https://cims.nyu.edu/~brenden/courses/labincp/chapters/09/00-hypothesistesting.html)
+- [x] [10. Hypothesis Testing](https://cims.nyu.edu/~brenden/courses/labincp/chapters/09/00-hypothesistesting.html)
   - https://github.com/vilijajoyce/python-resources/blob/main/python_lake_010_hypothesis.ipynb
+- [ ] [11. Comparing one or two means](https://cims.nyu.edu/~brenden/courses/labincp/chapters/10/00-ttest.html)
+  - https://github.com/vilijajoyce/python-resources/blob/main/python_lake_011_compare_means.ipynb
