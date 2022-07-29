@@ -11,5 +11,6 @@
      - [Python data visualizations](https://www.kaggle.com/benhamner/python-data-visualizations)
      - [Scikit-Learn ML from start to finish](https://www.kaggle.com/jeffd23/scikit-learn-ml-from-start-to-finish)
      - [TensorFlow Deep NN](https://www.kaggle.com/kakauandme/tensorflow-deep-nn)
+- [Learn Python - Full Course for Beginners [Tutorial] - 4 hours](https://www.youtube.com/watch?v=rfscVS0vtbw)
 # Python courses
 :black_square_button: [Brenden Lake's/Todd Gureckis' Fall 2021 Lab in Cognition and Perception](https://github.com/vilijajoyce/python-resources/blob/main/audit-lake-python-class.md) (Currently auditing)
