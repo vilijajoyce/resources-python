@@ -14,4 +14,5 @@
 - [Learn Python - Full Course for Beginners [Tutorial] - 4 hours](https://www.youtube.com/watch?v=rfscVS0vtbw)
 - [Python Basics, Data Science Foundations, Data Science w/ Python, ML Crash Course](https://twitter.com/Nilofer_tweets/status/1583487638756999168)
 # Python courses
-:black_square_button: [Brenden Lake's/Todd Gureckis' Fall 2021 Lab in Cognition and Perception](https://github.com/vilijajoyce/python-resources/blob/main/audit-lake-python-class.md) (Currently auditing)
+- [Data Science for Healthcare Claims Data](https://www.udemy.com/course/data-science-for-healthcare-claims-data/)
+- [Brenden Lake's/Todd Gureckis' Fall 2021 Lab in Cognition and Perception](https://github.com/vilijajoyce/python-resources/blob/main/audit-lake-python-class.md) (Currently auditing)
