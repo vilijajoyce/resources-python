@@ -15,4 +15,5 @@
 - [Python Basics, Data Science Foundations, Data Science w/ Python, ML Crash Course](https://twitter.com/Nilofer_tweets/status/1583487638756999168)
 # Python courses
 - [Data Science for Healthcare Claims Data](https://www.udemy.com/course/data-science-for-healthcare-claims-data/)
+- [The Data Science Course 2022: Complete Data Science Bootcamp](https://www.udemy.com/course/the-data-science-course-complete-data-science-bootcamp/)
 - [Brenden Lake's/Todd Gureckis' Fall 2021 Lab in Cognition and Perception](https://github.com/vilijajoyce/python-resources/blob/main/audit-lake-python-class.md) (Currently auditing)
