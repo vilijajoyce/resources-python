@@ -13,6 +13,8 @@
      - [TensorFlow Deep NN](https://www.kaggle.com/kakauandme/tensorflow-deep-nn)
 - [Learn Python - Full Course for Beginners [Tutorial] - 4 hours](https://www.youtube.com/watch?v=rfscVS0vtbw)
 - [Python Basics, Data Science Foundations, Data Science w/ Python, ML Crash Course](https://twitter.com/Nilofer_tweets/status/1583487638756999168)
+- [Shiny for Python](https://shiny.rstudio.com/py/)
+
 # Python courses
 - IP [Machine Learning A-Z™: Python & R in Data Science [2022]](https://www.udemy.com/course/machinelearning/)
 - IP [Brenden Lake's/Todd Gureckis' Fall 2021 Lab in Cognition and Perception](https://github.com/vilijajoyce/python-resources/blob/main/audit-lake-python-class.md)
