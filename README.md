@@ -16,7 +16,8 @@
 - [Shiny for Python](https://shiny.rstudio.com/py/)
 
 # Python courses
-- IP [Machine Learning A-Z™: Python & R in Data Science [2022]](https://www.udemy.com/course/machinelearning/)
+- 20230116 [Machine Learning A-Z™: Python & R in Data Science [2022]](https://www.udemy.com/course/machinelearning/)
 - IP [Brenden Lake's/Todd Gureckis' Fall 2021 Lab in Cognition and Perception](https://github.com/vilijajoyce/python-resources/blob/main/audit-lake-python-class.md)
 - [Data Science for Healthcare Claims Data](https://www.udemy.com/course/data-science-for-healthcare-claims-data/)
 - [The Data Science Course 2022: Complete Data Science Bootcamp](https://www.udemy.com/course/the-data-science-course-complete-data-science-bootcamp/)
+- [Georgia Tech Big Data Analytics for Healthcare](https://www.udacity.com/course/big-data-analytics-in-healthcare--ud758)
